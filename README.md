@@ -1,16 +1,44 @@
-## Hi there 👋
+# Olá! Eu sou Gabriel Brito 👋
 
-<!--
-**gabrielb1377/gabrielb1377** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Ciência da Computação**, atualmente no 6º semestre.  
+📍 Salvador, Bahia  
+💻 Buscando desenvolver minha carreira na área de **Desenvolvimento de Software e Tecnologia**.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Linguagens:** Python, Java, Dart, C e Lua
+- **Web:** HTML e CSS
+- **Banco de Dados:** SQL
+- **Mobile:** Flutter
+- **Versionamento:** Git e GitHub
+- **Ferramentas:** VS Code e Pacote Office
+
+> Atualmente aprofundando meus conhecimentos em desenvolvimento de software e construindo projetos próprios.
+
+## 🚀 Projeto atual
+
+### FITAI
+
+Aplicativo de fitness desenvolvido com **Flutter e Dart**, criado como projeto pessoal para colocar em prática meus conhecimentos em desenvolvimento mobile.
+
+O projeto está em desenvolvimento e atualmente conta com trabalho nas áreas de:
+
+- 🏋️ Treinos
+- 🏃 Corridas
+- 👤 Perfil do usuário
+- 💾 Persistência de dados
+- 📱 Interface e navegação
+
+## 📚 Atualmente estudando
+
+- Desenvolvimento de Software
+- Python
+- Java
+- SQL
+- Flutter e Dart
+- Git e GitHub
+
+## 📫 Contato
+
+- **LinkedIn:** [Gabriel Brito](https://www.linkedin.com/in/gabriel-brito-87808a422)
+- **E-mail:** gabriel.cbrito05@gmail.com
