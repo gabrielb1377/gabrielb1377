@@ -15,7 +15,7 @@
 
 > Atualmente aprofundando meus conhecimentos em desenvolvimento de software e construindo projetos próprios.
 
-## 🚀 Projeto atual
+## 🚀 Projeto em Desenvolvimento
 
 ### FITAI
 
@@ -28,15 +28,6 @@ O projeto está em desenvolvimento e atualmente conta com trabalho nas áreas de
 - 👤 Perfil do usuário
 - 💾 Persistência de dados
 - 📱 Interface e navegação
-
-## 📚 Atualmente estudando
-
-- Desenvolvimento de Software
-- Python
-- Java
-- SQL
-- Flutter e Dart
-- Git e GitHub
 
 ## 📫 Contato
 
